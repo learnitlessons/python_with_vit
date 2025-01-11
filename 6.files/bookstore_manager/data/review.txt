@@ -1,0 +1,41 @@
+CustomerID: CUS001
+ISBN: 9780123456789
+Rating: 4.5
+Date: 2024-01-10
+Review: Very comprehensive coverage of data science basics. Clear explanations and practical examples.
+====================
+CustomerID: CUS002
+ISBN: 9780123456790
+Rating: 5.0
+Date: 2024-01-10
+Review: Excellent guide for web development. Up-to-date content and useful code samples.
+====================
+CustomerID: CUS004
+ISBN: 9780123456792
+Rating: 4.0
+Date: 2024-01-11
+Review: Good overview of digital marketing. Could use more case studies.
+====================
+CustomerID: CUS006
+ISBN: 9780123456793
+Rating: 4.8
+Date: 2024-01-11
+Review: Outstanding introduction to AI concepts. Well-structured and engaging.
+====================
+CustomerID: CUS008
+ISBN: 9780123456795
+Rating: 4.2
+Date: 2024-01-12
+Review: Solid introduction to cloud computing. Practical implementation examples are helpful.
+====================
+CustomerID: CUS011
+ISBN: 9780123456798
+Rating: 4.7
+Date: 2024-01-13
+Review: Excellent database design resource. Clear diagrams and thorough explanations.
+====================
+CustomerID: CUS014
+ISBN: 9780123456791
+Rating: 4.5
+Date: 2024-01-14
+Review: Great Python programming guide. Perfect for beginners and intermediate developers.

@@ -1,0 +1,6 @@
+Inventory Summary Report
+Generated on: 2025-01-11 09:33:54
+----------------------------------------
+Total number of books: 10
+Number of genres: 2
+Price range: $34.99 - $55.99

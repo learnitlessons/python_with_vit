@@ -1,0 +1,11 @@
+ISBN|Title|Author|Genre|Price|Quantity|Location
+9780123456789|Data Science Fundamentals|Sarah Johnson|Technology|45.99|23|A12
+9780123456790|Modern Web Development|Michael Chen|Technology|39.99|15|B05
+9780123456791|Python Programming Guide|David Smith|Technology|49.99|30|A11
+9780123456792|Digital Marketing Strategies|Emily Brown|Business|34.99|18|C03
+9780123456793|Artificial Intelligence Basics|James Wilson|Technology|55.99|12|B07
+9780123456794|Business Analytics|Lisa Anderson|Business|42.99|20|C04
+9780123456795|Cloud Computing Essentials|Robert Taylor|Technology|47.99|25|B06
+9780123456796|Project Management|Maria Garcia|Business|38.99|17|C02
+9780123456797|Network Security|Thomas Lee|Technology|51.99|14|B08
+9780123456798|Database Design|Amanda White|Technology|44.99|22|A10
